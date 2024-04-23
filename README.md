@@ -1,13 +1,23 @@
-# Portfolio
+Summarize the project and what problem it was solving.
 
-How do I interpret user needs and implement them into a program? How does creating "user stories" help with this?
+The company "Corner Grocery" Needed a program that had the ability to read a text file that was filled throughout the day with items purchsed throughout the day. The program was able to take this file filled with items and create another file that had each unique item and the amount of times it was purchased in addition to the ability to allow the user to enter an item and return the amount that item sold.
 
-Creating a functional and well designs program that will satisfy a user is simply the use of communication. Creating meeting with your clients or users and being able to interpret their wants and translating it into features for your program will allow you to achieve high levels of success. User stories are a good way to get this translation into categorized sections for developers to quickly sort through however they see fit.
+What did you do particularly well?
 
-How do I approach developing program? What agile processes do I hope to invorporate into my future development work?
+I think I followed the instructions to the T and thought the optional exception handling added ads some security to the program so it doesn't crash from simple inputs. I do not believe its perfect but I'm really proud of the use of the seperation of code in order to modularize.
 
-Developin a program has a ton of step including learning important skills like programming, quality assurance, communication, etc. I think using agile priniciples will always be a good place to attempt. With short bursts of work getting done and without the need of huge planning to get started. Even with learning the programming aspect just getting started is always best. Agile allows a program to see results early and if any feed back changes plans it won't be a whole project worth of changes.
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-What does it mean to be a good team member in software development?
+I didn't do much testing I think testing the different input a user can enter and making sure nothing can completely crash the program. I also  believe I can add more to the classes in order to add functionality for Corner Grocery.
 
-A good team member in software development is one who is willing to work together to get the common goal done, customer satisfaction. Communication with other team members about any hurdles youre facing and helping others jump theirs is a great way to stand out and allow your team to run fluidly. A good team member is also one who has the cross functional ability. They are able to do lots of work without absolute need o someone else. 
+Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+
+I didn't think anything was too difficult other than the first 10 min of implementing maps as I didn't know how exactly they worked. Also I used VSCode which for some reason doesn't allow the compiling of multiple code files which is fixed through the task.json file and adding the files that are specifically used which would be hard if the program had 100s of files but i digres.
+
+What skills from this project will be particularly transferable to other projects or course work?
+
+The modularization of the code makes it apparent that I can seperate code to make it readable and skalable in the future of Corner Grocery. The project also demostrates a good understanding of foundational concept for C++ making it visible that I can be trusted with C++ and my ability to learn a programming language quickly (a few weeks).
+
+How did you make this program maintainable, readable, and adaptable?
+
+the use of classes always makes a programe adaptable and maintanable. The readable part is achieved through industry best practices through the use of specific naming conventions and making sure to seperate code and function with similar naming conventions. I also added codes where I believed were needed to increase comprehension.
